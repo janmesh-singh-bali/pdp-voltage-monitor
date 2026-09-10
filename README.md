@@ -12,6 +12,10 @@ Designed end-to-end in OrCAD X Professional Plus â€” schematic capture thro
 
 *PCB layout, 100 x 80 mm, 2 layers*
 
+![3D view](docs/3d-view.png)
+
+*Placement view - 3D canvas. Component bodies render as bounding-box outlines; STEP models not attached.*
+
 ---
 
 ## Design intent
@@ -109,4 +113,5 @@ OrCAD X Professional Plus â€” Capture 23.1 (schematic), Allegro 24.1 (layou
 ---
 
 **Janmesh Singh Bali** â€” B.E. Electronics, Instrumentation & Control Engineering, Thapar Institute of Engineering and Technology
+
 
