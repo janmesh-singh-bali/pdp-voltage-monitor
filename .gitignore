@@ -1,0 +1,11 @@
+*.bak
+*.dbk
+*.log
+*.rpt
+*.jrl
+*.err
+*.lck
+*.OLBlck
+signoise.run
+*-PSpiceFiles/
+allegro.*
